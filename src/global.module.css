@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(
+    to top,
+    rgba(0, 128, 0, 0.543),
+    rgba(255, 255, 0, 0.589),
+    rgba(255, 166, 0, 0.617)
+  );
+}
